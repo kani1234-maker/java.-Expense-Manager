@@ -12,11 +12,6 @@ Features
 Java OOP Concepts (Classes, Objects, Constructors)
 ArrayList (Dynamic data storage)
 Project Structure
-Expense-Manager/
-│
-├── Expense.java          # Stores user & expense details
-├── ExpenseManager.java   # Main logic and menu system
-└── README.md             # Project documentation
 
 How It Works
 The program displays a menu with multiple options
