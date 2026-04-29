@@ -13,7 +13,7 @@ Java OOP Concepts (Classes, Objects, Constructors)
 ArrayList (Dynamic data storage)
 Project Structure
 
-How It Works
+How It Works:
 The program displays a menu with multiple options
 Users can add expense details such as name, balance, and amount spent
 Each record is stored as an object in an ArrayList
